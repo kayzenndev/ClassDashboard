@@ -1,3 +1,4 @@
+```obsidian
 # Divisão De Cargos
 
 Membros: Felipe Gabriel, Matheus Ramos, Paulo Lázaro, Miguel Barbosa e Luiz Philippe.
@@ -55,5 +56,6 @@ Membros: Felipe Gabriel, Matheus Ramos, Paulo Lázaro, Miguel Barbosa e Luiz Phi
 | **Miguel** | Analista de Requisitos<br>Tester | Analisar os requisitos e garantir que o projeto siga com fidelidade a proposta definida, testar os protótipos analisando e reportando possíveis erros |
 
 ---
+```
 
 
