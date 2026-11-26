@@ -2,7 +2,7 @@
 
 Membros: Felipe Gabriel, Matheus Ramos, Paulo Lázaro, Miguel Barbosa e Luiz Philippe.
 
----
+
 ## Cargos
 - **PO**: O Project Owner é basicamente o lider da equipe. Ele quem vai manter contato com o professor para entender como está indo nosso projeto, o que temos que melhorar, alterar, etc.
 - **Desenvolvedor Back-End**: Basicamente vai criar toda a lógica por trás do sistema, conectando ele com a parte interativa do usuário e adicionando funcionalidade ao sistema.
